@@ -25,7 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Frontend Mentor _ NFT.png)
+![](https://github.com/Karly-Salama-M/nft-card-component/blob/main/images/Frontend%20Mentor%20_%20NFT.png)
+(./images/Frontend Mentor _ NFT.png)
 
 ![](./images/Frontend Mentor _ NFT_hover.png)
 
